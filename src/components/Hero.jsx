@@ -1,4 +1,5 @@
-import profilePic from '../assets/DG.webp'
+// import profilePic from '../assets/DG.webp'
+import profilePic from '../assets/DGProfile.jpg'
 import { HERO_CONTENT } from '../constants'
 import { motion } from 'framer-motion'
 
